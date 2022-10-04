@@ -25,6 +25,8 @@ Sub CheckForFreeShipping()
         MsgBox Cells(Row, 1).value & " " & Cells(Row, 2).value & " " & Cells(Row, 3).value & " " & Cells(Row, 4).value
         Cells(Row, 5).value = "Charged Shipping"
     End If
-    
+    'This is just for git testing
+    'Test agan
+    'One more test
    
 End Sub
